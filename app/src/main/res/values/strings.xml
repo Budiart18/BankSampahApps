@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">BankSampah</string>
+
+    <string name="text_current_location">Current Location :</string>
+    <string name="text_user_current_location" translatable="false">Jl. Soekarno Hatta 15A...</string>
+    <string name="text_banner_description">Claim Your Bonus For Every 5kg Trash!</string>
+    <string name="text_button_banner">Claim Here!</string>
+    <string name="text_top_categories_title">Category List :</string>
+    <string name="text_top_discount_title">Product List :</string>
+
+    <string name="text_shop_location">Shop Location</string>
+    <string name="text_add_to_cart">Add To Cart</string>
+    <string name="text_food_total" translatable="false">1</string>
+    <string name="text_title_your_cart">Your Cart</string>
+    <string name="text_total_price">Total Price</string>
+    <string name="text_checkout">Checkout</string>
+    <string name="text_hint_notes">Add some notes...</string>
+    <string name="total_quantity" translatable="false">x %s</string>
+    <string name="text_delivery_method">Delivery Method</string>
+    <string name="text_pick_up">Pick Up</string>
+    <string name="text_delivery">Delivery</string>
+    <string name="text_payment_method">Payment Method</string>
+    <string name="text_cash">Cash</string>
+    <string name="text_e_wallet">E-Wallet</string>
+    <string name="shopping_summary">Shopping Summary</string>
+    <string name="app_settings">App Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="text_notes_title">Notes (Opsional) :</string>
+    <string name="text_cart_is_empty">Cart is empty</string>
+    <string name="text_order_success">Order Success !</string>
+    <string name="text_back_to_home">Back to Home</string>
+    <string name="text_title_profile">Profile</string>
+    <string name="text_hint_name">Name</string>
+    <string name="text_hint_email" translatable="false">Email</string>
+    <string name="text_hint_password">Password</string>
+    <string name="text_hint_confirm_password">Confirm Password</string>
+    <string name="text_button_log_in">Log In</string>
+    <string name="text_navigate_to_register">Don\'t have account ? Register Here !</string>
+    <string name="text_navigate_to_login">Already have an account ? Login Here !</string>
+    <string name="text_button_register">Register</string>
+    <string name="text_highlight_login_here">Login Here !</string>
+    <string name="text_error_name_empty">Name can\'t be empty</string>
+    <string name="text_error_email_empty">Email can\'t be empty</string>
+    <string name="text_error_email_not_valid">Enter a valid email format</string>
+    <string name="text_error_password_empty">Password can\'t be empty</string>
+    <string name="text_error_password_less_than_8_char">Password less than 8 character</string>
+    <string name="text_error_password_not_match">Password doesn\'t match</string>
+    <string name="text_highlight_register_here">Register Here !</string>
+    <string name="btn_change_profile">Change Profile</string>
+    <string name="text_change_password">Change Password</string>
+    <string name="text_logout_account">Logout Account</string>
+    <string name="text_product_not_found">Product Not Found</string>
+    <string name="text_home">Home</string>
+    <string name="text_cart">Cart</string>
+    <string name="text_profile">Profile</string>
+    <string name="text_input_your_address">Address</string>
+
+</resources>
